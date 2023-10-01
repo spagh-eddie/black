@@ -14,6 +14,8 @@
 
 <!-- Changes that affect Black's preview style -->
 
+- Fix comments getting removed from inside parenthesized strings (#3909)
+
 ### Configuration
 
 <!-- Changes to how Black can be configured -->
